@@ -1,0 +1,30 @@
+What is Redux?
+    Redux is predictable state container for Javascript apps.
+    Manage the state of the application in a predictable way, redux can help for that.
+    
+    * It is for Javascript apps
+
+                Redux is not to React
+                Can be used with React, Angular, Vue, or even Vanilla Javascript
+                Redux is a library for Javascript applications.
+
+
+    * It is a state container
+
+                Redux store the state of the applications.
+                state of an app is the state represented by all the individual components of the app
+                Redux will store and manage the application state
+
+
+    * It is predictable (always behaving or occurring in the way expected)
+
+                Redux is a state container 
+                The state of the app can change
+                Ex- todo list app - item (pending) => item (completed)
+                In redux, all state transitions are explicit and it is possible to keep track of them
+                The changes to my application's state become predictable.
+
+    
+                
+
+
